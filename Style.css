@@ -1,0 +1,13 @@
+h3{
+    color: #6914fb;
+    font-size: 35;
+}
+.Header {
+    background-color: #7f8078 ;
+    display: flex;
+}
+.bor{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
